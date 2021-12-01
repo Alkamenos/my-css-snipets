@@ -1,0 +1,10 @@
+h1 {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+
+}
+h1::before, h1::after {
+    content: "";
+    border-top: 1px solid red;
+    align-self: center;
+}
