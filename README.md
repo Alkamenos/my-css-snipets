@@ -1,2 +1,2 @@
-# me-css-snipets
+# my-css-snipets
 Сборка интересных примеров использования CSS
